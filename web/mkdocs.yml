@@ -61,5 +61,5 @@ markdown_extensions:
 
 nav:
   - Добро пожаловать!: index.md
-  - FAQ: faq.md
-  - TODO: todo.md
+  - FAQ: FAQ.md
+  - TODO: TODO.md
