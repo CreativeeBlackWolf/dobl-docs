@@ -64,5 +64,7 @@ markdown_extensions:
 
 nav:
   - Добро пожаловать!: index.md
+  - Механики:
+    - Характеристики персонажа: mechanics/character-stats.md
   - FAQ: FAQ.md
   - TODO: TODO.md
