@@ -77,3 +77,6 @@ extra:
     - icon: fontawesome/brands/discord
       link: http://yaso.su/redobl
       name: DoBL discord server
+  analytics:
+    provider: google
+    property: G-HQTBN29H9Q
