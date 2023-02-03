@@ -5,6 +5,7 @@ repo_name: DoBL on GitHub
 
 theme:
   name: material
+  custom_dir: overrides
 
   palette:
     # Palette toggle for light mode
@@ -66,5 +67,13 @@ nav:
   - Добро пожаловать!: index.md
   - Механики:
     - Характеристики персонажа: mechanics/character-stats.md
+    - Инстансы: mechanics/instances.md
+    - Ходы: mechanics/moves.md
   - FAQ: FAQ.md
   - TODO: TODO.md
+
+extra: 
+  social:
+    - icon: fontawesome/brands/discord
+      link: http://yaso.su/redobl
+      name: DoBL discord server

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block announce %}
+<span class="twemoji">
+  </span>
+  Гайдлайн всё ещё находится в разработке. Если ты захочешь помочь, создай <a href="https://github.com/CreativeeBlackWolf/dobl-docs/issues/new/choose">Issue</a>.
+  <span class="twemoji heart-throb-hover">
+    {% set icon = "octicons/heart-fill-16" %}
+    {% include ".icons/" ~ icon ~ ".svg" %}
+  </span>
+{% endblock %}
