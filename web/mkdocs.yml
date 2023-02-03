@@ -1,6 +1,6 @@
 site_name: DoBL guideline
-repo_url: https://github.com/CreativeeBlackWolf/dobl-whoami-bot
-repo_name: dobl-whoami-bot
+repo_url: https://github.com/head47/dobl
+repo_name: DoBL on GitHub
 
 
 theme:
@@ -17,6 +17,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -28,6 +30,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.tracking
 
 markdown_extensions:
   # Python Markdown
