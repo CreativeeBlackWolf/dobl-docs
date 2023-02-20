@@ -65,13 +65,14 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Добро пожаловать!: index.md
+  - Добро пожаловать: index.md
   - Механики:
     - Персонаж: mechanics/character.md
     - Инстансы: mechanics/instances.md
     - Ходы: mechanics/moves.md
   - FAQ: FAQ.md
   - TODO: TODO.md
+  - Веселье!: fun.md
 
 extra: 
   social:
